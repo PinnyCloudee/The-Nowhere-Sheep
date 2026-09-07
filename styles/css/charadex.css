@@ -45,7 +45,7 @@ body {
   /* ============================================================= */
   /* Borders
   ================================================================ */
-  --cd-border-color: #ffffff;
+  --cd-border-color: #505050;
   --cd-border-width: 1px;
   --cd-border-style: solid;
   --cd-border-radius: 1rem;
@@ -53,7 +53,7 @@ body {
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color: #000000;
+  --cd-navbar-background-color: #505050;
   --cd-navbar-brand-color: var(--cd-primary-color);
   --cd-navbar-brand-color-hover: var(--cd-secondary-color);
   --cd-navbar-text-color: var(--cd-content-background-color);
@@ -106,7 +106,7 @@ body {
   --cd-navbar-dropdown-link-color-hover: var(--cd-primary-text-color);
 
   /* Divider */
-  --cd-navbar-dropdown-divider: #505050;
+  --cd-navbar-dropdown-divider: #ff0000;
   --cd-navbar-dropdown-border-radius: 0 0 var(--cd-border-radius) var(--cd-border-radius);
 
 
@@ -127,8 +127,8 @@ body {
   /* Link
   ================================================================ */
 
-  --cd-link-text-color: #505050;
-  --cd-link-text-color-hover:#505050;
+  --cd-link-text-color: #000000;
+  --cd-link-text-color-hover:#ffffff;
 
   /* ============================================================= */
   /* HR
