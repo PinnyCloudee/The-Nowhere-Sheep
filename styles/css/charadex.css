@@ -23,7 +23,7 @@ body {
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color: #FCA6EC;
+  --cd-secondary-color: #412594;
   --cd-secondary-text-color: #281464;
 
   /* ============================================================= */
@@ -53,7 +53,7 @@ body {
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color: #8342a8;
+  --cd-navbar-background-color: #4e2567;
   --cd-navbar-brand-color: var(--cd-primary-color);
   --cd-navbar-brand-color-hover: var(--cd-secondary-color);
   --cd-navbar-text-color: var(--cd-content-background-color);
