@@ -40,7 +40,7 @@ body {
   /* Text
   ================================================================ */
   --cd-body-text-color: #281464;
-  --cd-faded-text-color: #412594;
+  --cd-faded-text-color: #281464;
 
   /* ============================================================= */
   /* Borders
@@ -53,7 +53,7 @@ body {
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color: #4e4862;
+  --cd-navbar-background-color: #8342a8;
   --cd-navbar-brand-color: var(--cd-primary-color);
   --cd-navbar-brand-color-hover: var(--cd-secondary-color);
   --cd-navbar-text-color: var(--cd-content-background-color);
@@ -127,8 +127,8 @@ body {
   /* Link
   ================================================================ */
 
-  --cd-link-text-color: #FCA6EC;
-  --cd-link-text-color-hover:#92F8D7;
+  --cd-link-text-color: #8342a8;
+  --cd-link-text-color-hover:#281464;
 
   /* ============================================================= */
   /* HR
