@@ -39,13 +39,13 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color: #ffffff;
-  --cd-faded-text-color: #000000;
+  --cd-body-text-color: #505050;
+  --cd-faded-text-color: #505050;
 
   /* ============================================================= */
   /* Borders
   ================================================================ */
-  --cd-border-color: #505050;
+  --cd-border-color: #ffffff;
   --cd-border-width: 1px;
   --cd-border-style: solid;
   --cd-border-radius: 1rem;
@@ -53,7 +53,7 @@ body {
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color: #505050;
+  --cd-navbar-background-color: #000000;
   --cd-navbar-brand-color: var(--cd-primary-color);
   --cd-navbar-brand-color-hover: var(--cd-secondary-color);
   --cd-navbar-text-color: var(--cd-content-background-color);
