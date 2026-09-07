@@ -17,21 +17,21 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color: #8342a8;
+  --cd-primary-color: hsl(278, 44%, 46%);
   --cd-primary-text-color: #412594;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color: #412594;
-  --cd-secondary-text-color: #281464;
+  --cd-secondary-color: #000000;
+  --cd-secondary-text-color: #000000;
 
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color: #282533;
-  --cd-content-background-color: #a08cdf;
-  --cd-faded-background-color: #e0dbf5;
+  --cd-body-background-color: #000000;
+  --cd-content-background-color: #000000;
+  --cd-faded-background-color: #000000;
 
   /* Background Extras */
   --cd-body-background-image: url();
