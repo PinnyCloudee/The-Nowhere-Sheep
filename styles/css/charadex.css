@@ -17,21 +17,21 @@ body {
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color: hsl(278, 44%, 46%);
-  --cd-primary-text-color: #412594;
+  --cd-primary-color: #505050;
+  --cd-primary-text-color: #505050;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color: #000000;
-  --cd-secondary-text-color: #000000;
+  --cd-secondary-color: #505050;
+  --cd-secondary-text-color: #505050;
 
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color: #000000;
-  --cd-content-background-color: #000000;
-  --cd-faded-background-color: #000000;
+  --cd-body-background-color: #505050;
+  --cd-content-background-color: #505050;
+  --cd-faded-background-color: #505050;
 
   /* Background Extras */
   --cd-body-background-image: url();
@@ -39,13 +39,13 @@ body {
   /* ============================================================= */
   /* Text
   ================================================================ */
-  --cd-body-text-color: #281464;
-  --cd-faded-text-color: #281464;
+  --cd-body-text-color: #505050;
+  --cd-faded-text-color: #505050;
 
   /* ============================================================= */
   /* Borders
   ================================================================ */
-  --cd-border-color: rgba(0, 0, 0, 0.125);
+  --cd-border-color: #505050;
   --cd-border-width: 1px;
   --cd-border-style: solid;
   --cd-border-radius: 1rem;
@@ -53,7 +53,7 @@ body {
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color: #4e2567;
+  --cd-navbar-background-color: #505050;
   --cd-navbar-brand-color: var(--cd-primary-color);
   --cd-navbar-brand-color-hover: var(--cd-secondary-color);
   --cd-navbar-text-color: var(--cd-content-background-color);
@@ -71,20 +71,20 @@ body {
   /* Rarities
   ================================================================ */
 
-  --cd-rarity-common-bg: #FFBFFF;
-  --cd-rarity-common-txt: #412594;
+  --cd-rarity-common-bg: #505050;
+  --cd-rarity-common-txt: #505050;
 
-  --cd-rarity-uncommon-bg: #E9A9FF;
+  --cd-rarity-uncommon-bg: #505050;
   --cd-rarity-uncommon-txt: var(--cd-rarity-common-txt);
   
-  --cd-rarity-rare-bg: #CCA1FF;
+  --cd-rarity-rare-bg: #505050;
   --cd-rarity-rare-txt: var(--cd-rarity-common-txt);
 
-  --cd-rarity-veryrare-bg: #BBBCFF;
+  --cd-rarity-veryrare-bg: #505050;
   --cd-rarity-veryrare-txt: var(--cd-rarity-common-txt);
 
   /* Legendary & Mythic */
-  --cd-rarity-legendary-bg: #BCD9FF;
+  --cd-rarity-legendary-bg: #505050;
   --cd-rarity-legendary-txt: var(--cd-rarity-common-txt);
 
 
@@ -106,7 +106,7 @@ body {
   --cd-navbar-dropdown-link-color-hover: var(--cd-primary-text-color);
 
   /* Divider */
-  --cd-navbar-dropdown-divider: #281464;
+  --cd-navbar-dropdown-divider: #505050;
   --cd-navbar-dropdown-border-radius: 0 0 var(--cd-border-radius) var(--cd-border-radius);
 
 
@@ -127,8 +127,8 @@ body {
   /* Link
   ================================================================ */
 
-  --cd-link-text-color: #8342a8;
-  --cd-link-text-color-hover:#281464;
+  --cd-link-text-color: #505050;
+  --cd-link-text-color-hover:#505050;
 
   /* ============================================================= */
   /* HR
