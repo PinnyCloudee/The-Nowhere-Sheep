@@ -23,15 +23,15 @@ body {
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color: #ffffff;
-  --cd-secondary-text-color: #000000;
+  --cd-secondary-color: #505050;
+  --cd-secondary-text-color: #505050;
 
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color: #505050;
-  --cd-content-background-color: #505050;
-  --cd-faded-background-color: #505050;
+  --cd-body-background-color: #ffffff;
+  --cd-content-background-color: #000000;
+  --cd-faded-background-color: #ff0000;
 
   /* Background Extras */
   --cd-body-background-image: url();
